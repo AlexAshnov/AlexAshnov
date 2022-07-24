@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @AlexAshnov
-- 👀 I’m interested in Gaming, Coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on .AppImage installer for Rasberry Pi 4 (Ubuntu 20.10)
-- 📫 How to reach me alexashnov64@gmail.com
-
+- Hi, I’m @AlexAshnov
+- I'm a Game Dev and Hacker
+- I code for fun and you can download some of my work on Itch.io ( https://alexashnov64.itch.io )
